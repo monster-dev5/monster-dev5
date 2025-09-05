@@ -150,7 +150,7 @@ I recently transitioned from corporate development into freelancing, so I curren
 
 <div align=center>
 <!-- 🐍 GitHub Contribution Snake -->
-<img src="https://raw.githubusercontent.com/Akame/Akame/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/infiniterseup/infiniterseup/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 <p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
