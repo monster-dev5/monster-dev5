@@ -61,11 +61,4 @@ I specialize in **DeFi platforms, NFT marketplaces, smart contracts, cross-chain
 
 ---
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-</style>
 
