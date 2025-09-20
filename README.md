@@ -4,9 +4,9 @@
   </span>
 </h1>
 
-<p align="center">
+<div align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF00FF&width=800&lines=Full-Stack+%26+Blockchain+Developer;DeFi+|+NFT+Marketplaces+|+Smart+Contracts;Let's+build+the+future+of+Web3!" />
-</p>
+</div>
 
 ## 🌟 About Me
 
